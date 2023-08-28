@@ -28,6 +28,7 @@ body {
 
 footer {
     text-align: center;
+    text-transform: lowercase;
 }
 
 footer a {
