@@ -29,6 +29,11 @@ body {
     text-align: center;
 }
 
+.apple {
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
 footer {
     display: flex;
     text-align: center;
