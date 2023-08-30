@@ -17,6 +17,9 @@ body {
 }
 
 #title {
+    display: flex;
+    justify-content: center;
+    align-content: center;
     font-size: 6rem;
     text-align: center;
     line-height: 1;
@@ -27,8 +30,11 @@ body {
 }
 
 footer {
+    display: flex;
     text-align: center;
     text-transform: lowercase;
+    justify-content: center;
+    align-content: flex-end;
 }
 
 footer a {
