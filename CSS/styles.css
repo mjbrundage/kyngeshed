@@ -25,6 +25,15 @@ body {
     line-height: 1;
 }
 
+#subtitle {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 3rem;
+    text-align: center;
+    line-height: 1;
+}
+
 #names {
     text-align: center;
 }
